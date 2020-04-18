@@ -1,4 +1,4 @@
-package packag;
+﻿package packag;
 
 /**
  * @Author ZhangQi
@@ -16,6 +16,5 @@ public class A {
     //改回油箱
     //修改邮箱并勾选
     //矛盾处理
-    //大幅度
-    //最后一次
+    //争议处理完毕
 }
